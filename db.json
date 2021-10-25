@@ -1,0 +1,4 @@
+{
+  "DB": "sqlite3",
+  "DB_NAME": "/tmp/dataa.sqlite3"
+}

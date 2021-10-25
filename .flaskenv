@@ -1,0 +1,5 @@
+FLASK_APP=monitor_app.py
+FLASK_RUN_HOST=0.0.0.0
+FLASK_RUN_PORT=53005
+FLASK_ENV=development
+DEBUG = True
